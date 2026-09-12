@@ -1,2 +1,2 @@
-# ai-hydrogeology-basinanalysis-portfolio
-Geologist | AI-driven hydrology, groundwater recharge, basin dynamics, water stress &amp; land subsidence | Indus Basin
+# AI-Hydrogeology-Portfolio
+Geologist specializing in AI-driven hydrology, groundwater recharge, and land subsidence analysis. Focus: water stress and flood risk in the Indus Basin.
