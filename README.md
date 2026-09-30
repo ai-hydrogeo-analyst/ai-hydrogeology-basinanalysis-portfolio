@@ -29,6 +29,8 @@ Managed Aquifer Recharge (MAR)
 
 - GitHub: [ai-hydrogeo](https://github.com/ai-hydrogeo)
 - ResearchGate: [Tooba Nayab](https://www.researchgate.net/profile/Tooba-Nayab)
+
+
 Currently learning QGIS basics which includes loading layers, styling maps, navigating spatial data.
 ## Phase 1 Complete
 QGIS basics: loading, styling, navigating spatial data
